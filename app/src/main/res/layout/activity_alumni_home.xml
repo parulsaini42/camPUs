@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:id="@+id/alumni"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/alumni_img"
+            android:layout_width="385dp"
+            android:layout_height="145dp"
+            android:src="@mipmap/alumni_house" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Alumni"
+            android:textColor="#fff"
+            android:padding="4dp"
+            android:textSize="18sp"
+            android:layout_gravity="bottom" />
+    </FrameLayout>
+    <TextView
+        android:id="@+id/alumni_heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Department of Alumni Relations"
+        android:layout_below="@id/alumni"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="8dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/alumni_para"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="6dp"
+        android:layout_below="@id/alumni_heading"/>
+
+</RelativeLayout>

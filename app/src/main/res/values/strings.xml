@@ -1,0 +1,141 @@
+<resources>
+    <string name="app_name">NavDrawerDemo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="title_activity_notification">Notification</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="about_para">One of the oldest Universities in India, the Panjab University (PU) initiated at Lahore in 1882, has a long tradition of pursuing excellence in teaching and research in science and technology, humanities, social sciences, performing arts and sports. The University supports excellence and innovation in academic programmes, promotes excellence in research, scholarship and teaching. The University is committed to attract and support the best students and faculty, who excel at teaching and research. In independent India, Panjab University with its Campus at Chandigarh and nearly two hundred colleges in Punjab state and Chandigarh U.T., has served various societal needs with distinction. The glorious traditions of the University established during the period of more than 133 years of its long service to the nation since its inception are a source of inspiration for the present generation of faculty members and students. By virtue of its history, experience, achievements and philosophy, the Panjab University has a national character and it enjoys an international stature drawing both faculty and students from all over the country and different parts of the globe. Its faculty includes some of the most distinguished scientists and academicians. It continues to attract celebrated scholars at the campus. Over the years, the reputation of the Panjab University has grown to emerge as an institution at the pinnacle in innovative teaching, research and community outreach.</string>
+
+
+    <string name="title_activity_maps">Map</string>
+
+    //Library
+    <string name="lib_intro">The Panjab University Library, named officially as A. C. Joshi Library, after the name of an illustrious Vice-Chancellor of this University, was established in the U.S. Club, Shimla in the year 1947 after the Partition of the country. \nThe foundation stone of the new Library building was laid in 1958 by Dr. S. Radhakrishnan, the then Vice-President of India. \nThe five storyed impressive Library building in red stone and concrete is based on modern principles of architecture. Its modular and functional style fulfills the purpose of a planned Library. \nThe Library building centrally air-conditioned and equipped with computer and communication network houses more than six lakh volumes and has a seating accommodation of 500 readers.</string>
+
+
+    <string name="lib_address">A.C. Joshi Library\nPanjab University\nSector 14\nChandigarh, U.T. - 160014\nIndia</string>
+
+    <string name="librarian">Raj Kumar</string>
+
+    <string name="lib_contact">Telephone: +91 172 253 4551\nEnquiry No(s): 1800-180-2065, +91 172 2534818, +91 172 2534866\nE-mail: librarian@pu.ac.in</string>
+
+
+    //Alumni
+    <string name="alumni_para">Since its inception in 1882 , Panjab University has a long tradition of pursuing excellence in teaching and research. In the finest global tradition of the reputed seats of learning, which cherish links with their former students for mutual pride and enrichment, Panjab University Senate decided to create Department of Alumni Relations in 1969. The department helps to foster strong bonds between alumni, students and the Institute, to keep alumni informed, and create a network enabling them to remain engaged with their alma mater and help shape it’s future.</string>
+    <string name="alumni_head">Anil Monga</string>
+    <string name="alumni_dean">Dean of Alumni Relations</string>
+    <string name="alumni_address">Department of Alumni Relations\n
+        South Campus\n
+        Alumni House\n
+        Panjab University\n
+        Sector 25\n
+        Chandigarh, U.T. - 160014\n
+        India</string>
+    <string name="alumni_contact">Telephone: +91 172 2541881, 2534575\n
+        E-mail: darpu@pu.ac.in</string>
+    <string name="alumni_form_para">
+        The Senate of Panjab Univesity approved the formation of the Panjab University Alumni Association (PUAA) in the year 1969. However, the PUAA with the Vice-Chancellor as its President, and the Dean Alumni Relations as its Secretary, was formally inaugurated on 30th September 1972.
+
+The Department of Alumni Relations superintends the work of the PUAA and provides administrative support to it. </string>
+
+    //Sports
+    <string name="sports_intro">The Directorate of Sports, Panjab University was set up in the year 1948. There are 180 men, women, co-educational &amp; Educational Colleges affiliated to the University. Panjab University Sports Committee has been formed to guide, frame policy and co-ordinate the sports activities. In order to encourage sports activities of the rural and small colleges, the Directorate has divided the affiliated colleges into A, B, and C Divisions, according to the strength of students so that the balance be maintained between rural and urban colleges. \nThe Directorate of Sports is located in the Panjab University Jawahar Lal Nehru Complex Building (Gymnasium Hall). This complex has a magnificent air conditioned gymnasium hall for in-door games with international standard facilities and equipment for badminton, table-tennis, kabaddi (NS), weight lifting, judo and wrestling.A separate fitness centre for men and women and a well equipped physiotherapy laboratory has also been established in the gymnasium hall. A swimming pool of international dimension is also available in the university campus which is used for all the swimming competitions held in this city. </string>
+
+
+    <string name="directorate_address">Directorate of Sports\nJawahar Lal Nehru Complex\nPanjab University\nSector 14\nChandigarh, U.T. - 160014\nIndia</string>
+
+    <string name="director">Parminder Singh </string>
+
+    <string name="directorate_contact">Telephone: +91 172 2541042, +91 172 2534033\nEnquiry No(s): 1800-180-2065, +91 172 2534818, +91 172 2534866</string>
+    <string name="title_activity_highlights">highlights</string>
+    <string name="Cancel">Cancel</string>
+    <string name="gps_network_not_enabled">GPS not enabled</string>
+    <string name="open_location_settings">Open Location  Settings</string>
+
+
+</resources>

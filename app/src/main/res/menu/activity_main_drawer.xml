@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+        android:id="@+id/menu_top1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="Home" />
+
+
+    <group
+        android:id="@+id/menu_top"
+        android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/nav_alumni"
+            android:icon="@drawable/alumni"
+            android:title="Alumni" />
+        <item
+            android:id="@+id/nav_events"
+            android:icon="@drawable/eve"
+            android:title="Events" />
+
+        <item
+            android:id="@+id/nav_lib"
+            android:icon="@drawable/lib"
+            android:title="Library" />
+        <item
+            android:id="@+id/nav_sports"
+            android:icon="@drawable/sports"
+            android:title="Sports" />
+        <item
+            android:id="@+id/nav_transport"
+            android:icon="@drawable/bus"
+            android:title="Transport" />
+    </group>
+
+    <group
+        android:id="@+id/menu_bottom"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_abtoutus"
+            android:icon="@drawable/aboutus"
+            android:title="About Us" />
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/exit"
+            android:title="Exit" />
+    </group>
+
+</menu>

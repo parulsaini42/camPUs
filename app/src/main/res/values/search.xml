@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items">
+        <item>GATE 1</item>
+        <item>GATE 2</item>
+        <item>GATE 3</item>
+        <item>STUDENT CENTER</item>
+        <item>ATM,STUDENT CENTER</item>
+        <item>ATM,UIET</item>
+        <item>UNIVERSITY INSTITUTE OF ENGINEERING AND TECHNOLOGY,UIET</item>
+        <item>UNIVERSITY INSTITUTE OF APPLIED MANAGEMENT STUDIES,UIAMS</item>
+        <item></item>
+    </string-array>
+</resources>
